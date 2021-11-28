@@ -98,7 +98,7 @@ ul{
   top: 70%;
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 410px) {
   #img_container {
     height: 90vh;
     border-top-left-radius: 0;
